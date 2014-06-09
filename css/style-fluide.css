@@ -1,0 +1,61 @@
+* { /* le reset le plus simple */
+    margin:0;
+    padding:0;
+}
+
+body {
+    font:1em sans-serif;
+}
+
+h1 {
+    height: 75px;
+    line-height: 75px;
+    text-align: center;
+}
+
+p {
+    height:50px;
+    background:pink;
+    text-align:center;
+    line-height:50px;
+}
+
+.conteneur {
+    width: 90%;
+    margin-left:  5%;
+    margin-right: 5%;
+    background-color:#aaa;
+}
+
+.col {
+    float:left;
+    margin-left:	0.83333333333%;
+    margin-right:	0.83333333333%;
+    display:inline;
+}
+
+.ligne {
+    overflow:hidden;
+}
+
+.col1{
+    width: 18.33333333333%;
+}
+
+.col2 {
+    width: 38.33333333333%;
+}
+
+.col3 {
+    width: 58.33333333333%;
+}
+
+.col4 {
+    width: 78.33333333333%;
+}
+
+.col5 {
+    width: 98.33333333333%;
+}
+
+
